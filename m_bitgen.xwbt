@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Fatemeh\Desktop\test\test motor\m.ncd
+OUTFILE=C:\Users\Fatemeh\Desktop\test\test motor\m.bit
+FAMILY=Spartan3
+PART=xc3s400-4tq144
+WORKINGDIR=C:\Users\Fatemeh\Desktop\test\test motor
+LICENSE=WebPack
+USER_INFO=__0_0_0

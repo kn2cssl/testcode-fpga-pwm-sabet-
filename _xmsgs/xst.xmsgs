@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="1541" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">225</arg>: Different binding for component: &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. Port &lt;<arg fmt="%s" index="4">M_show</arg>&gt; does not match.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">228</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CLK_1MS</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">228</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">HALL_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">228</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CHECK_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1541" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">228</arg>: Different binding for component: &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. Port &lt;<arg fmt="%s" index="4">M_show</arg>&gt; does not match.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CLK_1MS</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">HALL_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CHECK_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1541" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">231</arg>: Different binding for component: &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. Port &lt;<arg fmt="%s" index="4">M_show</arg>&gt; does not match.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">234</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CLK_1MS</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">234</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">HALL_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">234</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">CHECK_OUT</arg>&apos; of component &apos;<arg fmt="%s" index="4">drivermotor</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1541" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/m.vhd</arg>&quot; line <arg fmt="%d" index="2">234</arg>: Different binding for component: &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. Port &lt;<arg fmt="%s" index="4">M_show</arg>&gt; does not match.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">380</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">RPM_H</arg>&gt; has a width of <arg fmt="%d" index="4">27</arg> bits but assigned expression is <arg fmt="%d" index="5">43</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">608</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">M_Kp_fp</arg>&gt; has a width of <arg fmt="%d" index="4">20</arg> bits but assigned expression is <arg fmt="%d" index="5">36</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">661</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">M_P</arg>&gt; has a width of <arg fmt="%d" index="4">26</arg> bits but assigned expression is <arg fmt="%d" index="5">22</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">664</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">M_P</arg>&gt; has a width of <arg fmt="%d" index="4">26</arg> bits but assigned expression is <arg fmt="%d" index="5">22</arg>-bit wide.
+</msg>
+
+<msg type="warning" file="Xst" num="1610" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">686</arg>: Width mismatch. &lt;<arg fmt="%s" index="3">M_PD</arg>&gt; has a width of <arg fmt="%d" index="4">31</arg> bits but assigned expression is <arg fmt="%d" index="5">28</arg>-bit wide.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="old" >Register &lt;<arg fmt="%s" index="1">DIR</arg>&gt; in unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; has a constant value of <arg fmt="%s" index="3">1</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">cnt</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1305" delta="old" >Output &lt;<arg fmt="%s" index="1">ERR_M</arg>&gt; is never assigned. Tied to value <arg fmt="%s" index="2">0000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">kp_M</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">FREE_WHEEL</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="1305" delta="old" >Output &lt;<arg fmt="%s" index="1">CHECK_OUT</arg>&gt; is never assigned. Tied to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1305" delta="old" >Output &lt;<arg fmt="%s" index="1">LED&lt;0&gt;</arg>&gt; is never assigned. Tied to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">STATE</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">RPM_DIFF_show</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">RPM_DIFF&lt;14:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">M_ERROR</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">CLK_S</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">CHECK</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="643" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd</arg>&quot; line <arg fmt="%d" index="2">608</arg>: The result of a <arg fmt="%d" index="3">16</arg>x<arg fmt="%d" index="4">20</arg>-bit multiplication is partially used. Only the <arg fmt="%d" index="5">20</arg> least significant bits are used. If you are doing this on purpose, you may safely ignore this warning. Otherwise, make sure you are not losing information, leading to unexpected circuit behavior.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">HALL4_COUNT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">HALL3_COUNT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">HALL2_COUNT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">HALL1_COUNT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">time_count</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">rfd1</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">quotient1</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">kp_M4</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">00000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">kp_M3</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">00000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">kp_M2</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">00000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">kp_M1</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">00000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">fractional1</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">divisor1</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">dividend1</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">RST_IN</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">LED4</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">LED3</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">LED1</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">ERR_M4</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">ERR_M3</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">ERR_M2</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">ERR_M1</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">CLK_280</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">CLKFX_OUT</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">CLK0_OUT</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall1_past</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;hall_state_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_5&gt; &lt;M_Kd_fp_6&gt; &lt;M_Kd_fp_9&gt; &lt;M_Kd_fp_10&gt; &lt;M_Kd_fp_13&gt; &lt;M_Kd_fp_14&gt; &lt;M_Kd_fp_15&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_1&gt; &lt;M_PID_2&gt; &lt;M_PID_3&gt; &lt;M_PID_10&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_5&gt; &lt;M_PID_6&gt; &lt;M_PID_7&gt; &lt;M_PID_8&gt; &lt;M_PID_9&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver1</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall1_past</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;hall_state_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_5&gt; &lt;M_Kd_fp_6&gt; &lt;M_Kd_fp_9&gt; &lt;M_Kd_fp_10&gt; &lt;M_Kd_fp_13&gt; &lt;M_Kd_fp_14&gt; &lt;M_Kd_fp_15&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_1&gt; &lt;M_PID_2&gt; &lt;M_PID_3&gt; &lt;M_PID_10&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_5&gt; &lt;M_PID_6&gt; &lt;M_PID_7&gt; &lt;M_PID_8&gt; &lt;M_PID_9&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_1&gt; &lt;STATE1_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_2&gt; &lt;STATE1_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver2</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_3&gt; &lt;STATE1_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall1_past</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;hall_state_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_5&gt; &lt;M_Kd_fp_6&gt; &lt;M_Kd_fp_9&gt; &lt;M_Kd_fp_10&gt; &lt;M_Kd_fp_13&gt; &lt;M_Kd_fp_14&gt; &lt;M_Kd_fp_15&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_1&gt; &lt;M_PID_2&gt; &lt;M_PID_3&gt; &lt;M_PID_10&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_5&gt; &lt;M_PID_6&gt; &lt;M_PID_7&gt; &lt;M_PID_8&gt; &lt;M_PID_9&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver3</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall1_past</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;hall_state_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_5&gt; &lt;M_Kd_fp_6&gt; &lt;M_Kd_fp_9&gt; &lt;M_Kd_fp_10&gt; &lt;M_Kd_fp_13&gt; &lt;M_Kd_fp_14&gt; &lt;M_Kd_fp_15&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_1&gt; &lt;M_PID_2&gt; &lt;M_PID_3&gt; &lt;M_PID_10&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_5&gt; &lt;M_PID_6&gt; &lt;M_PID_7&gt; &lt;M_PID_8&gt; &lt;M_PID_9&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">driver4</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;STATE1_2&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">driver1</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">driver2</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">driver3</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">driver4</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver1</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver1</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">STATE1_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">driver1</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">STATE1_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">driver2</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver3</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver3</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">STATE1_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">driver3</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">driver4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">STATE1_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">driver4</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver3</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">driver4</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">M_Kd_fp_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">RPM_DIFF_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_9</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_8</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_7</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_6</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_5</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">M_PID_4</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">drivermotor</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_9</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_10</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_13</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_14</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_15</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_PID_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_PID_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_PID_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_PID_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">M_PID_10</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">STATE1_3</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">drivermotor</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall1_past</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;hall_state_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_Kd_fp_11</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_Kd_fp_12&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_PID_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_PID_5&gt; &lt;M_PID_6&gt; &lt;M_PID_7&gt; &lt;M_PID_8&gt; &lt;M_PID_9&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_1&gt; &lt;STATE1_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_2&gt; &lt;STATE1_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">hall_state_past_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;LED_3&gt; &lt;STATE1_2&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">HALL_COUNT_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">drivermotor</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">prl_com/FREE_WHEELS</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">m</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">driver4/hall_out_s</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">m</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">driver3/hall_out_s</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">m</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">driver2/hall_out_s</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">m</arg>&gt;.
+</msg>
+
+</messages>
+

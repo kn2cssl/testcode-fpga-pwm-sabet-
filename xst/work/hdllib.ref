@@ -1,0 +1,10 @@
+AR micro_com2 behavioral "C:/Users/Fatemeh/Desktop/test/test motor/micro_com2.vhd" sub00/vhpl07 1429349921
+EN pwm NULL "C:/Users/Fatemeh/Desktop/test/test motor/pwm.vhd" sub00/vhpl00 1429349914
+AR drivermotor behavioral "C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd" sub00/vhpl03 1429349917
+AR m behavioral "C:/Users/Fatemeh/Desktop/test/test motor/m.vhd" sub00/vhpl09 1429349923
+EN drivermotor NULL "C:/Users/Fatemeh/Desktop/test/test motor/driver.vhd" sub00/vhpl02 1429349916
+AR pwm behavioral "C:/Users/Fatemeh/Desktop/test/test motor/pwm.vhd" sub00/vhpl01 1429349915
+EN m NULL "C:/Users/Fatemeh/Desktop/test/test motor/m.vhd" sub00/vhpl08 1429349922
+EN micro_com2 NULL "C:/Users/Fatemeh/Desktop/test/test motor/micro_com2.vhd" sub00/vhpl06 1429349920
+EN write_to_usb NULL "C:/Users/Fatemeh/Desktop/test/test motor/Write_to_USB.vhd" sub00/vhpl04 1429349918
+AR write_to_usb behavioral "C:/Users/Fatemeh/Desktop/test/test motor/Write_to_USB.vhd" sub00/vhpl05 1429349919

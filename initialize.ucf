@@ -1,0 +1,145 @@
+##CLK
+NET "clk" LOC = "P127";
+
+##M1
+NET "HALL11" LOC="P82";
+NET "HALL21" LOC="P83";
+NET "HALL31" LOC="P80";
+NET "M3N1"   LOC="P79";
+NET "M3P1"   LOC="P78";
+NET "M2N1"   LOC="P77";
+NET "M2P1"   LOC="P76";
+NET "M1N1"   LOC="P74";
+NET "M1P1"   LOC="P73";
+#
+##M2
+NET "HALL12" LOC="P108";
+NET "HALL22" LOC="P112";
+NET "HALL32" LOC="P107";
+NET "M3N2"   LOC="P105";
+NET "M3P2"   LOC="P104";
+NET "M2N2"   LOC="P103";
+NET "M2P2"   LOC="P102";
+NET "M1N2"   LOC="P100";
+NET "M1P2"   LOC="P99";
+
+
+##M3
+#NET "HALL33" LOC="P10"; #kave
+#NET "HALL13" LOC="P11";
+#NET "HALL23" LOC="P8";
+
+NET "HALL13" LOC="P10";
+NET "HALL23" LOC="P11";
+NET "HALL33" LOC="P8";
+NET "M3N3"   LOC="P7";
+NET "M3P3"   LOC="P6";
+NET "M2N3"   LOC="P5";
+NET "M2P3"   LOC="P4";
+NET "M1N3"   LOC="P2";
+NET "M1P3"   LOC="P1";
+#
+#
+##
+##M4
+NET "HALL14" LOC="P31";
+NET "HALL24" LOC="P32";
+NET "HALL34" LOC="P30";
+NET "M3N4"   LOC="P28";
+NET "M3P4"   LOC="P27";
+NET "M2N4"   LOC="P26";
+NET "M2P4"   LOC="P25";
+NET "M1N4"   LOC="P24";
+NET "M1P4"   LOC="P23";
+
+
+#MICRO TO FPGA
+NET "RPM_IN[0]"       LOC = "P63";
+NET "RPM_IN[1]"       LOC = "P60";
+NET "RPM_IN[2]"       LOC = "P59";
+NET "RPM_IN[3]"       LOC = "P56";
+NET "RPM_IN[4]"       LOC = "P55";
+NET "RPM_IN[5]"       LOC = "P53";
+NET "RPM_IN[6]"       LOC = "P52";
+NET "RPM_IN[7]"       LOC = "P51";
+NET "clk_par"           LOC = "P46";
+NET "parity_in"         LOC = "P44";
+NET "motor_num[0]"      LOC = "P50";
+NET "motor_num[1]"      LOC = "P47";
+
+#MICRO TO PC
+NET "Data_USB[0]"       LOC = "P84";
+NET "Data_USB[1]"       LOC = "P87";
+NET "Data_USB[2]"       LOC = "P86";
+NET "Data_USB[3]"       LOC = "P93";
+NET "Data_USB[4]"       LOC = "P85";
+NET "Data_USB[5]"       LOC = "P90";
+NET "Data_USB[6]"       LOC = "P92";
+NET "Data_USB[7]"       LOC = "P89";
+#NET "USB_RXF"          LOC = "P98";
+NET "TXE"               LOC = "P97";
+#NET "USB_RD"           LOC = "P96";
+NET "USB_WR"            LOC = "P95";
+
+###SPI1
+##NET "MOSI1"           LOC = "P70";
+##NET "MISO1"           LOC = "P69";
+##NET "SCK1"            LOC = "P68";
+##
+##
+###SPI2
+##NET "MOSI2"           LOC = "P36";
+##NET "MISO2"           LOC = "P40";
+##NET "SCK2"            LOC = "P41";
+##
+##
+###7SEG
+##NET "SEG1A"          LOC = "P12";
+##NET "SEG1B"          LOC = "P18";
+##NET "SEG1C"          LOC = "P20";
+##NET "SEG1D"          LOC = "P17";
+##NET "SEG1E"          LOC = "P15";
+##NET "SEG1F"          LOC = "P13";
+##NET "SEG1G"          LOC = "P14";
+##NET "SEG1DP"         LOC = "P21";
+
+#LED
+NET "led[0]"         LOC = "P140";#kaveh
+NET "led[1]"         LOC = "P141";#
+
+NET "led[0]"         LOC = "P40";#baghie
+NET "led[1]"         LOC = "P36";
+
+NET "led[2]"         LOC = "P33";
+NET "led[3]"         LOC = "P35";
+
+
+#MENU
+#NET "TEST_KEY[3]"    LOC = "P141";
+#NET "TEST_KEY[2]"    LOC = "P140";
+NET "TEST_KEY[1]"    LOC = "P131";
+NET "TEST_KEY[0]"    LOC = "P130";
+
+
+
+#IO
+##NET "IO1"                 LOC = "P137";
+##NET "IO2"                 LOC = "P135";
+##NET "IO3"                 LOC = "P132";
+##NET "IO4"                 LOC = "P131";
+##NET "IO5"                 LOC = "P130";
+##NET "IO6"                 LOC = "P129";
+##NET "IO7"                 LOC = "P128";
+##NET "IO8"                 LOC = "P125";
+##NET "IO9"                 LOC = "P124";
+##NET "IO10"                LOC = "P123";
+##NET "IO11"                LOC = "P122";
+##NET "IO12"                LOC = "P119";
+##NET "IO13"                LOC = "P118";
+##NET "IO14"                LOC = "P116";
+##NET "IO15"                LOC = "P113";
+
+NET "HALL_OUT"                LOC ="P116";
+NET "CLK_1MS"                 LOC ="P113";
+NET "CHECK_OUT"               LOC ="P119";
+#NET "M1"                      LOC ="P137";
